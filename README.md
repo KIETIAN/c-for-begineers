@@ -1,1 +1,1 @@
-# c-for-begineers
+# c-for-beginners
